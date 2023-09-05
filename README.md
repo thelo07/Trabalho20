@@ -1,4 +1,4 @@
 # Trabalho20
 
-Guilherme Melo 
+Guilherme Melo &
 Marcelo
